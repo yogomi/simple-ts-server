@@ -1,6 +1,0 @@
-[submodule "src/common_libs/flexlog"]
-	path = src/common_libs/flexlog
-	url = https://git-codecommit.ap-northeast-1.amazonaws.com/v1/repos/ts-flexlog
-[submodule "src/common_libs/file-utility"]
-	path = src/common_libs/file-utility
-	url = https://git-codecommit.ap-northeast-1.amazonaws.com/v1/repos/ts-file-utility
